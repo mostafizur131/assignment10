@@ -11,6 +11,7 @@ Next.js is a popular open-source JavaScript framework used for building modern w
 # 1. .next folder
 
 At first, when we run the project with command `npm run dev` or `npm run build` then a .next building folder has created.
+
 ![Alt text](./public/image.png)
 
 The .next folder in a Next.js project is where the compiled and optimized assets are stored after building the application. It contains subdirectories for static assets, server-side code, compiled pages, and JavaScript chunks. This folder is crucial for running a Next.js application in production, as it holds everything needed for server-side rendering, client-side routing, and asset management.
@@ -57,8 +58,12 @@ In a Next.js app, the public directory (or folder) is used to store static asset
 
 # 7 `next.config.js` Configuration file for Next.js
 
-# 8 `package-lock.json ` In a Next.js app (or any Node.js project), the package-lock.json file tracks and locks down the specific versions of installed packages and their dependencies. It ensures consistency, stability, and reproducibility across different environments, helping to prevent unintentional updates and ensuring reliable builds.
+# 8 `package-lock.json `
+
+In a Next.js app (or any Node.js project), the package-lock.json file tracks and locks down the specific versions of installed packages and their dependencies. It ensures consistency, stability, and reproducibility across different environments, helping to prevent unintentional updates and ensuring reliable builds.
 
 # 9 `package.json` Project dependencies and scripts
 
-# 10 `README.md` the README.md file serves as a documentation hub. It provides a concise overview of the project's purpose, installation instructions, usage examples, contributing guidelines, licensing details, contact information, and other relevant resources. It's the first point of reference for anyone exploring your project on platforms like GitHub.
+# 10 `README.md`
+
+the README.md file serves as a documentation hub. It provides a concise overview of the project's purpose, installation instructions, usage examples, contributing guidelines, licensing details, contact information, and other relevant resources. It's the first point of reference for anyone exploring your project on platforms like GitHub.
