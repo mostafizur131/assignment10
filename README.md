@@ -34,9 +34,13 @@ In the app folder/directory we need some major files like layout.js, page.js, gl
 In this project have variety of files that are commonly found in a Next.js application to enhance its functionality and appearance:
 
 `favicon.io`: This file is used to create a favicon for the application. A favicon is a small icon that appears in the address bar of the browser.
+
 `global.css`: This file contains global CSS styles that are applied to all pages in the application.
+
 `layout.js`: This file contains the layout for the application. The layout is the HTML structure that is used for all pages in the application. This is the main file of the application.
+
 `page.js`: This file is a page component that renders the content of the / route. The / route is the root route of the application. This is the page that users will see when they first visit the application.
+
 `page.module.css`: The page.module.css file contains CSS styles for the page.js file. CSS modules are a way to scope CSS styles to a specific component or file. This can help to prevent CSS conflicts.
 
 # 3. node_modules directory / folder
